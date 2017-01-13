@@ -17,11 +17,19 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 ## 0.1.2 BETA
 - The header was created
 - MySQL databases created
+- Bug fixes and security changes
 
 ## 0.1.3 BETA
 - Converted to MySQLi
+- Bug fixes and security changes
 
 ## 0.1.4 BETA
+- Registration has opened
+- Disabled login systems
+- Bug fixes and security changes
+
 
 # To-do
 - Add site roles
+- Fix login
+- Make account profiles
