@@ -6,8 +6,28 @@ A social network platform with walls and albums.
 ## Databases
 This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this repository nor will be SQL to keep user data private.
 
-## Project Managers
+# Project Staff
+## Site Administration
+### Project Managers
 - Danny Tran
+
+### Network Managers
+- Danny Tran
+
+### DNS Managers
+- Danny Tran
+
+### API Managers
+
+## Developers
+### Frontend Developers
+- Danny Tran
+
+### Backend Developers
+- Danny Tran
+
+### API Developers
+
 
 ## Channel Log
 ### 0.1.1 BETA
