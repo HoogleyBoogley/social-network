@@ -18,6 +18,7 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 - Danny Tran
 
 ### API Managers
+- Danny Tran
 
 ## Developers
 ### Frontend Developers
@@ -27,7 +28,11 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 - Danny Tran
 
 ### API Developers
+- Danny Tran
 
+## User Registration
+### Registration Support
+- 
 
 ## Channel Log
 ### 0.1.1 BETA
