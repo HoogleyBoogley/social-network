@@ -34,7 +34,7 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 ### Registration Support
 - 
 
-## Channel Log
+# Channel Log
 ### 0.1.1 BETA
 - Front end development bagan
 - Color scheme choosen
