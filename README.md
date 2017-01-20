@@ -30,9 +30,18 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 ### API Developers
 - Danny Tran
 
-## User Registration
+## Support
 ### Registration Support
-- 
+- TBA
+
+### User Validation Support
+- TBA
+
+### API Support
+- TBA
+
+### Profile Support
+- TBA
 
 # Channel Log
 ### 0.1.1 BETA
