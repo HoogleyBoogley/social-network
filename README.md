@@ -62,6 +62,11 @@ This entiure site is based off of MySQL and PHP 5.6, however, no PHP is in this 
 - Disabled login systems
 - Bug fixes and security changes
 
+### 0.2.0 BETA
+- Switched to MVC structure
+- PDO is used
+- Site is faster
+- Bug fixes and security changes
 
 # To-do
 - Add site roles
